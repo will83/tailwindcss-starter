@@ -1,0 +1,9 @@
+// import google font here
+// in case of variable font "ital,wght@0,100..900;1,100..900" means : "without italics from weight 0 to 900 / with italics from weight 0 to 900"
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// custom rules and functions here (@apply, @layer, @variants, @responsive, @screen etc.)

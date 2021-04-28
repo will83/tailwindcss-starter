@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "css": "postcss styles/globals.css --dir styles/output/ --watch"
+    "css": "postcss styles/src/globals.css --dir styles/ --watch"
   },
   "dependencies": {
     "@tailwindcss/aspect-ratio": "^0.2.0",

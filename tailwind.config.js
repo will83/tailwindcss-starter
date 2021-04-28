@@ -1,6 +1,6 @@
 module.exports = {
   mode: 'jit',
-  purge: ['./pages/**/*.js', './components/**/*.js', './styles/safelist.txt'],
+  purge: ['index.html', './pages/**/*.js', './components/**/*.js', './styles/safelist.txt'],
   darkMode: 'media',
   theme: {
     fontFamily: {
