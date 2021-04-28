@@ -4,7 +4,7 @@ module.exports = {
   darkMode: 'media',
   theme: {
     fontFamily: {
-      // 'sans': ["'Fira Sans'", 'sans-serif'],
+      'sans': ["'Inter'", 'sans-serif'],
     },
     extend: {
 
